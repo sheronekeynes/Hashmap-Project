@@ -182,4 +182,3 @@ test.set("kite", "pink");
 test.set("lion", "golden");
 test.set('monkey','brown')
 test.getBuckets();
-console.log(test.getLength());
